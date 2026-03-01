@@ -1,4 +1,4 @@
-Provider Profiling Simulation: Medical Cost Triage
+1) Provider Profiling Simulation: Medical Cost Triage
 
 The Goal: The goal of this project was to identify which anesthesiologists in Connecticut are driving unjustified high costs so we can prioritize clinical audits where they will have the most ROI.
 
@@ -7,7 +7,7 @@ The Results: Out of 538 providers, we filtered the list down to 19 outliers (the
 The Takeaway: This project provides an efficient provider profiling framework that can flag those who need auditing. We are ready to move from this "high-level" view into a deep-dive of specific billing codes for the top 4 targets.
 
 
-Provider Quality Simulation: Medication Adherence
+2) Provider Quality Simulation: Medication Adherence
 
 The Goal: The goal of this project was to identify which Hartford-based prescribers are driving care gaps in chronic medication adherence.
 
